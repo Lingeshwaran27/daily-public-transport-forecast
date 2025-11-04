@@ -14,10 +14,4 @@ This repo contains code, reports, and data for analysis and forecasting of daily
 3. See `data/` for example inputs and outputs
 
 ## Authors
-- Your Name
-
-## License
-- (Specify or leave default)
-=======
-# daily-public-transport-forecast
->>>>>>> bf0126d12e42407d3b48fe42925a3a853be9f2fb
+- Lingeshwaran K, BTech AI-Ds

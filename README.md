@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Daily Public Transport Forecast Project
 
 This repo contains code, reports, and data for analysis and forecasting of daily public transport passenger journeys.
@@ -17,3 +18,6 @@ This repo contains code, reports, and data for analysis and forecasting of daily
 
 ## License
 - (Specify or leave default)
+=======
+# daily-public-transport-forecast
+>>>>>>> bf0126d12e42407d3b48fe42925a3a853be9f2fb
